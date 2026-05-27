@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsender",
+        "uuid": 5045040,
+        "checksum": "473qpf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
